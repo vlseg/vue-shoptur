@@ -1,21 +1,10 @@
-# ad-project
+# Сайт для туроператоров. Vue.js project
 
-> A Vue.js project
+> Это площадка своего рода доска объявлений, где любой туроператор может сформировать свои предложения по продаже горящих туров. После регистрации становятся доступными сервисы добавления предложений, их оформление, редактирование и размещение в верхней рекламе. 
 
-## Build Setup
+> Пользователь может заказать тур. Для этого он вводит свое имя и телефон в специальную форму. Туроператор в своем кабинете видит оставленные заказы и может связаться с пользователем по оставленному телефону. Каждый туроператор работает только со своими предложениями и откликами на них. Чужие объявления ему недоступны.
 
-``` bash
-# install dependencies
-npm install
+## В проекте использованы vuetify, vuex, vue router и различные плагины экосистемы vue.
+> Применена БД - Firebase.
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> Здесь можно посмотреть [демо-версию](http://shoptur.medstat.info) сайта: 
