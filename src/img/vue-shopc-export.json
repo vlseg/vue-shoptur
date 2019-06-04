@@ -1,0 +1,53 @@
+{
+  "ads" : {
+    "-LfytzhIpA16k8D0XI4P" : {
+      "description" : "4444444",
+      "imageSrc" : "https://firebasestorage.googleapis.com/v0/b/vue-shopc.appspot.com/o/ads%2F-LfytzhIpA16k8D0XI4P..gif?alt=media&token=848a5c8d-fa13-48c4-aa41-2526bc0dcc48",
+      "ownerId" : "R7zaNAnovUSPz9pAY2cGcSGlTt03",
+      "promo" : true,
+      "title" : "33333333"
+    },
+    "-LfyunEHUKwKCAMVfeVj" : {
+      "description" : "Живет в засушливых степях планеты Зорк. Питается исключительно пискалями.\n\nСила удара: 95\nЖивучесть: 43\nСкорость: 12\nХитрость: 84",
+      "imageSrc" : "https://firebasestorage.googleapis.com/v0/b/vue-shopc.appspot.com/o/ads%2F-LfyunEHUKwKCAMVfeVj..gif?alt=media&token=239f56df-1228-4c80-a94e-74f6eeed3629",
+      "ownerId" : "R7zaNAnovUSPz9pAY2cGcSGlTt03",
+      "promo" : true,
+      "title" : "Трехлистник уборочный"
+    },
+    "-Lfz-Kvhj4h4eLGfJU_A" : {
+      "description" : "Очень опасен на дальних расстояниях. Стреляет отравленными иглами",
+      "imageSrc" : "https://firebasestorage.googleapis.com/v0/b/vue-shopc.appspot.com/o/ads%2F-Lfz-Kvhj4h4eLGfJU_A..gif?alt=media&token=13dc945a-831d-43d6-b164-c5e2e6bed05b",
+      "ownerId" : "R7zaNAnovUSPz9pAY2cGcSGlTt03",
+      "promo" : true,
+      "title" : "Плавень игольчатый"
+    },
+    "-LfzBX5yEhrAvxLlbzbX" : {
+      "description" : "aaaaaaaa",
+      "imageSrc" : "https://firebasestorage.googleapis.com/v0/b/vue-shopc.appspot.com/o/ads%2F-LfzBX5yEhrAvxLlbzbX..png?alt=media&token=d1d04343-09f5-4aec-b4e2-b817827c619b",
+      "ownerId" : "R7zaNAnovUSPz9pAY2cGcSGlTt03",
+      "promo" : true,
+      "title" : "fffff"
+    },
+    "-LfzDDPWmyicM9-QRdEh" : {
+      "description" : "ooooooooo",
+      "imageSrc" : "https://firebasestorage.googleapis.com/v0/b/vue-shopc.appspot.com/o/ads%2F-LfzDDPWmyicM9-QRdEh..jpg?alt=media&token=860cb3f8-6257-4af3-bf8f-708f63a74402",
+      "ownerId" : "DqKs2266XuTiXpuMj3GzmjlGjsr1",
+      "promo" : true,
+      "title" : "ppppppppp"
+    },
+    "-LfzE-YYWaCZME42yUDf" : {
+      "description" : "fffffffff",
+      "imageSrc" : "https://firebasestorage.googleapis.com/v0/b/vue-shopc.appspot.com/o/ads%2F-LfzE-YYWaCZME42yUDf..gif?alt=media&token=8bbac7fa-2c42-44e7-b4d3-bd9ecdc6041b",
+      "ownerId" : "DqKs2266XuTiXpuMj3GzmjlGjsr1",
+      "promo" : true,
+      "title" : "gggggg"
+    },
+    "-LfzGK_jT2s9JychyJ61" : {
+      "description" : "вапв",
+      "imageSrc" : "https://firebasestorage.googleapis.com/v0/b/vue-shopc.appspot.com/o/ads%2F-LfzGK_jT2s9JychyJ61..jpg?alt=media&token=4b8da83b-4d49-437a-b9e3-a477e0ff1209",
+      "ownerId" : "R7zaNAnovUSPz9pAY2cGcSGlTt03",
+      "promo" : true,
+      "title" : "sfd"
+    }
+  }
+}
