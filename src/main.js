@@ -13,7 +13,7 @@ Vue.use(Vuetify, {
   theme: {
   //   primary: "#f44336",
   //   secondary: "#9575CD",
-    accent: "#00e5ff"
+       accent: "#00e5ff"
   //   error: "#f44336",
   //   warning: "#3949AB",
   //   info: "#2196f3",
@@ -22,8 +22,6 @@ Vue.use(Vuetify, {
 })
 Vue.component('app-buy-modal', BuyModalComponent)
 
-// import VExpansionPanels from ' @/components/VExpansionPanels ' ;
-// Vue.component('v-expansion-panels', VExpansionPanels)
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
@@ -34,15 +32,7 @@ new Vue({
   components: { App },
   template: '<App/>',
   created () {
-    fb.initializeApp({
-      apiKey: 'AIzaSyBIlqEx9COFlve859_F74mWPRWG6xjjKpA',
-      authDomain: 'vue-shopc.firebaseapp.com',
-      databaseURL: 'https://vue-shopc.firebaseio.com',
-      projectId: 'vue-shopc',
-      storageBucket: 'vue-shopc.appspot.com',
-      messagingSenderId: '524082788725',
-      appId: '1:524082788725:web:eb4829d2980c5aa7'
-    })
+    fb.initializeApp({ данные Firebase })
 
     fb.auth().onAuthStateChanged(user => {
       if (user) {
